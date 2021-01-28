@@ -1,0 +1,11 @@
+AlbiHimbeerMaracuja:1
+BarenMilch:2
+CappuccinoClassico:3
+ElBrygg:4
+JaFettarmeHMilch:5
+KnusperSchokoKeks:6
+LangkornSpitzenReis:7
+Meersalz:8
+PfannerDerGrune:9
+PfannerIceTea:10
+Somat:11
